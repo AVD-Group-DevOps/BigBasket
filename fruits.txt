@@ -5,3 +5,5 @@ Banana
 Watermelon
 Qiwi
 Papaya
+Orange
+Guava
