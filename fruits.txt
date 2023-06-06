@@ -3,3 +3,5 @@ Pineapple
 Mango
 Banana
 Watermelon
+Qiwi
+Papaya
