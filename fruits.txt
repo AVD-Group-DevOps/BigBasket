@@ -6,3 +6,6 @@ Watermelon
 Qiwi
 Papaya
 Grapes
+Orange
+Guava
+
