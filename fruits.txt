@@ -3,3 +3,7 @@ Pineapple
 Mango
 Banana
 Watermelon
+Raspberry
+Blueberry
+Guava
+Orange
